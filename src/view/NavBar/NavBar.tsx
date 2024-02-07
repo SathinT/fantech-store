@@ -14,11 +14,11 @@ export class NavBar extends Component {
                     <img src={logo} alt="logo"/>
 
                     <ul className="flex justify-between gap-5 text-white pt-6 pl-28">
-                        <li className="text-xl">Sale</li>
-                        <li className="text-xl">Products</li>
-                        <li className="text-xl">Download</li>
-                        <li className="text-xl">FAQ's</li>
-                        <li className="text-xl">Support</li>
+                        <li className="text-xl font-mono">Sale</li>
+                        <li className="text-xl font-mono">Products</li>
+                        <li className="text-xl font-mono">Download</li>
+                        <li className="text-xl font-mono">FAQ's</li>
+                        <li className="text-xl font-mono">Support</li>
                     </ul>
                     </div>
 
